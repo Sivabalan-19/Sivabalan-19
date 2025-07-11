@@ -7,90 +7,59 @@
 
 ---
 
-### 🧠 About Me
+## 💫 About Me
 
-- 🔭 I’m currently working on a **Spotify Web Player**  
-- 👯 Looking to collaborate on **Open Social Impact Projects**  
-- 🤝 Need help with **Advanced Django & Backend Architecture**  
-- 🌱 Learning **Zustand**, **PostgreSQL**, **Full Stack Development**  
-- 💬 Ask me about **React**, **Vue**, **GSAP**, and **Next.js**  
-- 📫 How to reach me: `youremail@example.com`  
-- 🧑‍💻 All my projects: [github.com/yourusername](https://github.com/yourusername)  
-- 📄 Resume: [View My Resume](https://yourportfolio.example.com/resume.pdf)  
-- ⚡ Fun fact: I debug better when I talk to my code 😅
+👋 Hi there! I'm **Sivabalan**, a passionate front-end developer with a growing interest in full-stack development and UI/UX design. I love creating responsive, user-friendly web applications that solve real-world problems.
 
----
+🌱 I'm currently sharpening my skills in **Next.js**, **Zustand**, **Django**, and **PostgreSQL**, while building real projects like a **Spotify Web Playback App** and a **Real-Time Coding Interview Platform**.
 
-### 🛠️ Tech Stack
+💡 I actively explore new libraries and frameworks, work with APIs, and integrate animations (GSAP) to bring life to my interfaces. I'm also learning backend systems and authentication to become a fully capable full-stack developer.
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock)
+🎯 I enjoy contributing to open-source projects, enhancing UI/UX in live applications, and collaborating on ideas that align with social impact and innovation.
 
-#### 💻 Backend & DB
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+🔗 Let's connect! Check out my work, follow my journey, and feel free to reach out if you'd like to collaborate.
 
 ---
 
-### 🧩 Featured Projects
+## 🌐 Socials
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎵 **Spotify Web Player** | Music player using Spotify Web Playback SDK | Next.js, Spotify API |
-| 🍽️ **Recipe App** | Browse, search, and view cooking recipes | Next.js, Zustand, PostgreSQL |
-| 💬 **Coding Interview Platform** | Real-time code + video call system | WebRTC, Prisma, PostgreSQL |
-| 🩺 **Healthcare App** | Secure doctor-patient interaction app | Django, Tailwind CSS |
-| 📊 **Fintech Dashboard (Emtax)** | UI enhancement + API integration | React, Tailwind CSS |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+📫 Email: youremail@example.com  
+🌍 Portfolio: Coming Soon
 
 ---
 
-### 📊 GitHub Stats
+## 💻 Tech Stack
+
+**Languages & Frameworks:**  
+HTML5 • CSS3 • JavaScript • TypeScript • C  
+React • Next.js • Tailwind CSS • Zustand • GSAP • Django • Prisma
+
+**Backend & Databases:**  
+Node.js • PostgreSQL • SQLite • Firebase (basics)
+
+**Design & Tools:**  
+Figma • Postman • Git • GitHub • Vercel • Netlify
+
+---
+
+## 🔥 Current Projects
+
+- 🎵 **Spotify Web Playback App** – Full music control using Spotify SDK  
+- 🍽️ **Recipe App** – Filter & view recipes with Zustand + PostgreSQL  
+- 💬 **Coding Interview Platform** – Video + code editor in real-time  
+- 🩺 **Healthcare Web App** – Doctor-patient portal with secure login  
+- 💰 **Emtax Finance Dashboard** – Enhanced UI for finance management
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" width="47%" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
-
-<p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🧋 Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sivabalan" target="_blank"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black"/></a>
-</p>
-
----
-
-<p align="center">✨ Built with ❤️ by Sivabalan ✨</p>
+<p align="center">✨ Thanks for visiting my profile!</p>

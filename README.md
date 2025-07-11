@@ -1,65 +1,79 @@
-<h1 align="center">Hi 👋, I'm Sivabalan</h1>
-<h3 align="center">🚀 Front-End Developer | 💡 Aspiring Full Stack Engineer | 🎨 UI/UX Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCF91&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality+via+Code!;Passionate+about+Clean+UI+%26+Functional+UX;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
----
 
 ## 💫 About Me
 
-👋 Hi there! I'm **Sivabalan**, a passionate front-end developer with a growing interest in full-stack development and UI/UX design. I love creating responsive, user-friendly web applications that solve real-world problems.
+👋 Hey! I'm **Sivabalan**, a passionate front-end developer transitioning into full-stack development. I specialize in crafting modern, responsive UIs using **React**, **Next.js**, **Tailwind CSS**, and **Zustand**, while continuously sharpening my eye for clean design and intuitive user experience.
 
-🌱 I'm currently sharpening my skills in **Next.js**, **Zustand**, **Django**, and **PostgreSQL**, while building real projects like a **Spotify Web Playback App** and a **Real-Time Coding Interview Platform**.
+🛠 I'm currently diving deep into **backend development**, learning technologies like **Node.js**, **Express.js**, and **SQL** to build scalable full-stack applications.
 
-💡 I actively explore new libraries and frameworks, work with APIs, and integrate animations (GSAP) to bring life to my interfaces. I'm also learning backend systems and authentication to become a fully capable full-stack developer.
+🚀 My toolkit also includes **Figma**, **Postman**, **Git**, **GitHub**, **Vercel**, and **Netlify**—tools I use to design, develop, and deploy efficiently.
 
-🎯 I enjoy contributing to open-source projects, enhancing UI/UX in live applications, and collaborating on ideas that align with social impact and innovation.
+💡 I love experimenting with new tech, integrating animations using **GSAP**, and building real-world projects that are fast, functional, and user-focused.
 
-🔗 Let's connect! Check out my work, follow my journey, and feel free to reach out if you'd like to collaborate.
+🤝 Always open to collaboration, learning from others, and solving impactful problems with code!
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-📫 Email: youremail@example.com  
-🌍 Portfolio: Coming Soon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivabalan1906/)  
+📫 Email: pmsiva.1906@gmail.com  
+🌍 Portfolio: [siva19.vercel.app](https://siva19.vercel.app)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks:**  
-HTML5 • CSS3 • JavaScript • TypeScript • C  
-React • Next.js • Tailwind CSS • Zustand • GSAP • Django • Prisma
+### 🧑‍💻 Languages & Frameworks
 
-**Backend & Databases:**  
-Node.js • PostgreSQL • SQLite • Firebase (basics)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Design & Tools:**  
-Figma • Postman • Git • GitHub • Vercel • Netlify
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 🔥 Current Projects
+### 🧩 Backend & Database
 
-- 🎵 **Spotify Web Playback App** – Full music control using Spotify SDK  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🛠 Tools & Platforms
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+- 🌐 **Portfolio Website** – Built with Next.js + Tailwind to highlight my projects and profile.
+- 🏆 **Student Ranking & Rewards System** – Ranks students based on performance and rewards top performers.  
 - 🍽️ **Recipe App** – Filter & view recipes with Zustand + PostgreSQL  
 - 💬 **Coding Interview Platform** – Video + code editor in real-time  
-- 🩺 **Healthcare Web App** – Doctor-patient portal with secure login  
 - 💰 **Emtax Finance Dashboard** – Enhanced UI for finance management
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivabalan-19&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sivabalan-19&theme=radical" width="47%" />
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile!</p>

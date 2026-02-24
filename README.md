@@ -11,57 +11,30 @@
 
 🤝 Always open to collaboration, learning from others, and solving impactful problems with code!
 
----
+## <div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:1.5rem;"><img src="https://skillicons.dev/icons?i=world" height="28" alt="Dev.to Icon"/> Socials</div>
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivabalan1906/)  
-📫 Email: pmsiva.1906@gmail.com  
-🌍 Portfolio: [siva19.vercel.app](https://siva19.vercel.app)
+<div style="display:flex;align-items:center;justify-content:center;gap:30px; margin-bottom:50px;">
+  <a href="mailto:pmsiva.1906@gmail.com" style="text-decoration:none;">
+         <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/sivabalan1906/" style="text-decoration:none;">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
 
-## 💻 Tech Stack
+  </a>
 
-### 🧑‍💻 Languages & Frameworks
+  <a href="https://siva19.vercel.app" style="text-decoration:none;">
+         <img src="https://skillicons.dev/icons?i=vercel" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  </a>
 
-<br/>
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## <div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:1.5rem;"><img src="https://skillicons.dev/icons?i=devto" height="28" alt="Dev.to Icon"/> Tech Stack</div>
 
----
-
-### 🧩 Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🛠 Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-- 🌐 **Portfolio Website** – Built with Next.js + Tailwind to highlight my projects and profile.
-- 🏆 **Student Ranking & Rewards System** – Ranks students based on performance and rewards top performers.  
-- 🍽️ **Recipe App** – Filter & view recipes with Zustand + PostgreSQL  
-- 💬 **Coding Interview Platform** – Video + code editor in real-time  
-- 💰 **Emtax Finance Dashboard** – Enhanced UI for finance management
-
+<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:15px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,java,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel,bitbucket,windows&perline=9" />
+</div>

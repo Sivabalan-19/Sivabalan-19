@@ -1,3 +1,4 @@
+<div style="text-align:center; max-width:900px; margin:auto;">
 
 ## 💫 About Me
 
@@ -11,8 +12,9 @@
 
 🤝 Always open to collaboration, learning from others, and solving impactful problems with code!
 
-## <div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:1.5rem;"><img src="https://skillicons.dev/icons?i=world" height="28" alt="Dev.to Icon"/> Socials</div>
+---
 
+## <div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:1.5rem;"><img src="https://skillicons.dev/icons?i=world" height="28" alt="Dev.to Icon"/> Socials</div>
 
 <div style="display:flex;align-items:center;justify-content:center;gap:30px; margin-bottom:50px;">
   <a href="mailto:pmsiva.1906@gmail.com" style="text-decoration:none;">
@@ -21,15 +23,14 @@
 
   <a href="https://www.linkedin.com/in/sivabalan1906/" style="text-decoration:none;">
      <img src="https://skillicons.dev/icons?i=linkedin" />
-
   </a>
 
   <a href="https://siva19.vercel.app" style="text-decoration:none;">
          <img src="https://skillicons.dev/icons?i=vercel" />
-
   </a>
-
 </div>
+
+---
 
 ## <div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:1.5rem;"><img src="https://skillicons.dev/icons?i=devto" height="28" alt="Dev.to Icon"/> Tech Stack</div>
 
@@ -37,4 +38,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,java,python&perline=6" />
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel,bitbucket,windows&perline=9" />
+</div>
+
 </div>

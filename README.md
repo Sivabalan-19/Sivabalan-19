@@ -69,11 +69,3 @@
 - 💬 **Coding Interview Platform** – Video + code editor in real-time  
 - 💰 **Emtax Finance Dashboard** – Enhanced UI for finance management
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivabalan-19&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sivabalan-19&theme=radical" width="47%" />
-</p>

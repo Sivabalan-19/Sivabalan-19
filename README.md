@@ -9,7 +9,7 @@
 
 🤝 Always open to collaboration, learning from others, and solving impactful problems with code!
 
----
+
 
 ## 🌐 Socials
 
@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ## <img src="https://skillicons.dev/icons?i=devto" height="35" alt="Dev.to Icon"/> Tech Stack
 <p align="center">
